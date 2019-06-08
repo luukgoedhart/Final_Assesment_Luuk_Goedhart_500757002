@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_today_schedule"
+            android:icon="@drawable/ic_schedule_black_24dp"
+            android:title="Today's Schedule"></item>
+        <item
+            android:id="@+id/nav_weekly_schedule"
+            android:icon="@drawable/ic_school_black_24dp"
+            android:title="Weekly Schedule"></item>
+        <item
+            android:id="@+id/nav_sports"
+            android:icon="@drawable/ic_fitness_center_black_24dp"
+            android:title="Sports"></item>
+        <item
+            android:id="@+id/nav_calories"
+            android:icon="@drawable/ic_pie_chart_black_24dp"
+            android:title="Calories Tracker"></item>
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/ic_note_black_24dp"
+            android:title="Notes"></item>
+        <item
+            android:id="@+id/nav_spotify"
+            android:icon="@drawable/ic_library_music_black_24dp"
+            android:title="Spotify"></item>
+        <item
+            android:id="@+id/nav_personal_goals"
+            android:icon="@drawable/ic_track_changes_black_24dp"
+            android:title="Personal Goals"></item>
+    </group>
+
+
+</menu>

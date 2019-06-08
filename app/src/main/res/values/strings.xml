@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FinalAssesment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name = "finances">Money and Finances</string>
+    <string name = "health">Health</string>
+    <string name="social">Social</string>
+    <string name="Education">Education and Learning</string>
+    <string name = "Personal_goals">Personal Goals</string>
+    <string name = "title">Title: </string>
+    <string name = "goal_desc">Goal Description</string>
+    <string name = "confirm">Confirm</string>
+
+
+    <string-array name="spinner_values">
+        <item>Money and Finances</item>
+        <item>Health</item>
+        <item>Social</item>
+        <item>Education and Learning</item>
+    </string-array>
+</resources>
